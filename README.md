@@ -56,7 +56,7 @@ Desktop app and command line to control UGREEN HiTune Max5c earbuds from a PC in
 - Cargo workspace split into core, CLI and GUI crates, with 80 unit and golden tests, including tests replayed from real device captures
 - Tested on real hardware, shipped as portable Windows executables on the Releases page
 
-### [DevTask-Manager](https://github.com/lucasrc97/DevTask-Manager) · C# · JavaScript
+### [devtask-manager](https://github.com/lucasrc97/devtask-manager) · C# · JavaScript
 
 Full-stack task manager with authentication.
 
