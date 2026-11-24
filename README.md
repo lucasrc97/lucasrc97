@@ -71,3 +71,7 @@ Full-stack task manager with authentication.
 Windows productivity tools.
 
 - **Audio**: a volume mixer with per-app volume and mute, microphone mute and global hotkeys, built directly on the Windows Core Audio COM API, with light and dark themes
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasrc97-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrc97)
